@@ -1,0 +1,14 @@
+# build outputs
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
